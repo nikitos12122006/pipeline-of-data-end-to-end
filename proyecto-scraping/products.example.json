@@ -1,0 +1,12 @@
+[
+  {
+    "name": "Echo Dot",
+    "url": "https://www.amazon.es/dp/B08N5WRWNW",
+    "threshold": 30.0
+  },
+  {
+    "name": "Auriculares Sony WH-1000XM5",
+    "url": "https://www.amazon.es/dp/XXXXXXXXX",
+    "threshold": 250.0
+  }
+]
